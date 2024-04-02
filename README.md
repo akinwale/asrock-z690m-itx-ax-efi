@@ -35,7 +35,7 @@ EFI for the ASRock Z690M-ITX/ax with OpenCore 0.9.9.
 * Ethernet works.
 
 ## USB Port Mapping
-Ports mapped using Hackintool. The system case is a Velkase 7 case with no front panel I/O, so all rear ports are functional. All 14 ports are listed below.
+Ports mapped using Hackintool. The system case is a Velka 7 case with no front panel I/O, so every rear port is functional. All 14 ports are listed below.
 
 | Port | Description                                         |
 |------|-----------------------------------------------------|
